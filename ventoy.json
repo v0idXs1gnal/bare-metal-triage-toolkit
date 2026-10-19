@@ -1,0 +1,8 @@
+{
+    "control": [
+        { "VTOY_WIN11_BYPASS_CHECK": "1" },
+        { "VTOY_WIN11_BYPASS_NRO": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/Ventoy_Toolkit" },
+        { "VTOY_DEFAULT_MENU_MODE": "1" }
+    ]
+}
